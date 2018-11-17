@@ -1,0 +1,167 @@
+body {
+  background-color: rgb(0,0,0);
+}
+
+div {
+  background-color: black;
+  height: 5%;
+  width: 100%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+#Top {
+}
+
+#mainbox {
+}
+
+#Name {
+  background-image: linear-gradient(black,gray);
+  width: 100%;
+  height: 10%;
+  color: white;
+}
+
+#box {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#profile {
+  width: 100%;
+  position: relative;
+}
+
+#photographer {
+  color: white;
+}
+
+#youtube {
+  width: 100%;
+  margin: 5%;
+}
+
+#youtubelink {
+}
+
+#Left {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+#twitter {
+  width: 86%;
+}
+
+.container {
+  border-radius: 22px;
+  border: solid;
+  border-width: 3px;
+  border-color: white;
+}
+
+#Social {
+  margin-left: auto;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  margin-right: auto;
+}
+
+tw {
+}
+
+#CCC {
+  width: 70%;
+}
+
+#soundcloud {
+  margin-top: 8%;
+  margin-bottom: 5%;
+}
+
+#works {
+  margin: auto;
+}
+
+.col-md-8 {
+}
+
+img {
+  width: 100%;
+}
+
+#carousel-1 {
+  margin-left: 4%;
+}
+
+p {
+  color: white;
+  width: 75%;
+  height: 100%;
+}
+
+.carousel-indicators {
+  visibility: hidden;
+}
+
+.w-100.d-block {
+  visibility: hidden;
+}
+
+.carousel-control-prev {
+  position: absolute;
+}
+
+.carousel-control-next {
+  position: absolute;
+}
+
+#test1 {
+  margin: auto;
+}
+
+#test2 {
+  margin: auto;
+  font-size: 15px;
+}
+
+#test3 {
+  margin: auto;
+  font-size: 20px;
+}
+
+.col {
+}
+
+#back {
+  background: gray;
+  padding-bottom: 50%;
+  width: 90%;
+  margin: auto;
+}
+
+.row {
+}
+
+#navbar {
+  margin: auto;
+}
+
+.nav.nav-tabs {
+  margin-left: auto;
+  margin-right: auto;
+  width: 37%;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+
+#topbottom {
+}
+
