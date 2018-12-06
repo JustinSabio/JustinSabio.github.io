@@ -271,3 +271,99 @@ iframe {
   border: solid;
 }
 
+@media (min-width: 300px) {
+  #button {
+    width: 110px;
+    margin-left: 33%;
+  }
+}
+
+@media (min-width: 576px) {
+  #button {
+    margin-left: 42%;
+  }
+}
+
+@media (min-width: 768px) {
+  #button {
+    margin-left: 40%;
+  }
+}
+
+@media (min-width: 300px) {
+  .btn:not(:disabled):not(.disabled) {
+    width: 110px;
+    margin-left: 23%;
+  }
+}
+
+@media (min-width: 300px) {
+  .btn:not(:disabled):not(.disabled) {
+    width: 200px;
+    margin-left: 23%;
+  }
+}
+
+@media (min-width: 768px) {
+  .btn:not(:disabled):not(.disabled) {
+    margin-left: 39%;
+  }
+}
+
+@media (min-width: 992px) {
+  .btn:not(:disabled):not(.disabled) {
+    margin-left: 41%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .btn:not(:disabled):not(.disabled) {
+    margin-left: 42%;
+  }
+}
+
+#quote {
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+  font-weight: 700;
+  font-size: 13px;
+}
+
+#tsubas {
+  margin-top: -11%;
+}
+
+@media (min-width: 300px) {
+  #tsubas {
+    margin-top: -40%;
+    margin-bottom: 15%;
+  }
+}
+
+@media (min-width: 576px) {
+  #tsubas {
+    margin-top: -3%;
+    margin-bottom: 3%;
+  }
+}
+
+@media (min-width: 768px) {
+  #tsubas {
+    margin-top: -38%;
+    margin-bottom: 13%;
+  }
+}
+
+@media (min-width: 992px) {
+  #tsubas {
+    margin-top: -6%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #tsubas {
+    margin-top: 0%;
+  }
+}
+
