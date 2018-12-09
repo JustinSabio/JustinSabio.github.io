@@ -402,3 +402,7 @@ iframe {
   }
 }
 
+.btn:not(:disabled):not(.disabled) {
+  margin-left: 42%;
+}
+
