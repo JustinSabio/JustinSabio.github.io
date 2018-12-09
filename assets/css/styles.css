@@ -274,51 +274,54 @@ iframe {
 @media (min-width: 300px) {
   #button {
     width: 110px;
-    margin-left: 33%;
+    float: right;
   }
 }
 
 @media (min-width: 576px) {
   #button {
-    margin-left: 42%;
+    margin-left: 0;
+    float: right;
   }
 }
 
 @media (min-width: 768px) {
   #button {
-    margin-left: 40%;
+    float: right;
   }
 }
 
 @media (min-width: 300px) {
   .btn:not(:disabled):not(.disabled) {
     width: 110px;
-    margin-left: 23%;
+    margin-left: 0;
   }
 }
 
 @media (min-width: 300px) {
   .btn:not(:disabled):not(.disabled) {
     width: 200px;
-    margin-left: 23%;
+    margin-left: 0;
   }
 }
 
 @media (min-width: 768px) {
   .btn:not(:disabled):not(.disabled) {
-    margin-left: 39%;
+    margin-left: 0%;
+    margin-top: 5%;
   }
 }
 
 @media (min-width: 992px) {
   .btn:not(:disabled):not(.disabled) {
-    margin-left: 41%;
+    margin-left: 0%;
   }
 }
 
 @media (min-width: 1200px) {
   .btn:not(:disabled):not(.disabled) {
-    margin-left: 42%;
+    margin-left: 0%;
+    margin-top: 3%;
   }
 }
 
@@ -364,6 +367,38 @@ iframe {
 @media (min-width: 1200px) {
   #tsubas {
     margin-top: 0%;
+  }
+}
+
+#desktop {
+  font-weight: 600;
+}
+
+#button2 {
+  width: 110px;
+}
+
+@media (min-width: 576px) {
+  #button2 {
+    margin-top: 4%;
+  }
+}
+
+@media (min-width: 300px) {
+  #button2 {
+    margin-top: 8%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #button2 {
+    margin-top: 3%;
+  }
+}
+
+@media (min-width: 992px) {
+  #button2 {
+    margin-top: 4%;
   }
 }
 
