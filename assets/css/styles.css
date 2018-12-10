@@ -78,7 +78,7 @@ a {
 #button {
   margin-left: 37%;
   width: 30%;
-  margin-top: 10px;
+  margin-top: 4%;
   color: white;
   font-weight: 500;
   background-image: linear-gradient(rgb(255,142,39), #ff6767);
@@ -291,30 +291,10 @@ iframe {
   }
 }
 
-@media (min-width: 300px) {
-  .btn:not(:disabled):not(.disabled) {
-    width: 110px;
-    margin-left: 0;
-  }
-}
-
-@media (min-width: 300px) {
-  .btn:not(:disabled):not(.disabled) {
-    width: 200px;
-    margin-left: 0;
-  }
-}
-
 @media (min-width: 768px) {
   .btn:not(:disabled):not(.disabled) {
     margin-left: 0%;
     margin-top: 5%;
-  }
-}
-
-@media (min-width: 992px) {
-  .btn:not(:disabled):not(.disabled) {
-    margin-left: 0%;
   }
 }
 
@@ -404,5 +384,56 @@ iframe {
 
 .btn:not(:disabled):not(.disabled) {
   margin-left: 42%;
+}
+
+#button2 {
+  margin-left: 0;
+}
+
+@media (min-width: 768px) {
+  #button {
+    margin-top: 8%;
+  }
+}
+
+@media (min-width: 992px) {
+  #button {
+    margin-top: 4%;
+  }
+}
+
+@media (min-width: 576px) {
+  #button {
+    margin-top: 8%;
+  }
+}
+
+@media (min-width: 300px) {
+  #button {
+    margin-top: 8%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #button {
+    margin-top: 4%;
+  }
+}
+
+@media (min-width: 992px) {
+  #button {
+    margin-top: 4%;
+  }
+}
+
+.btn:not(:disabled):not(.disabled) {
+  margin-left: 35%;
+}
+
+@media (min-width: 300px) {
+  .btn:not(:disabled):not(.disabled) {
+    width: 150px;
+    margin-left: 28%;
+  }
 }
 
